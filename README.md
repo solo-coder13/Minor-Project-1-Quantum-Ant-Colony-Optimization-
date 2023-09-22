@@ -4,21 +4,6 @@ Quantum Ant Colony Optimisation optimises structural topology, a conventional en
 # Objective
 The primary objective of this project is two-fold. First, it aims to investigate the theoretical foundations of Quantum Ant Colony Optimization and its applicability to engineering problems, particularly in the context of structural topology optimization. Second, it seeks to provide practical insights into implementing QACO, offering a roadmap for engineers and researchers eager to harness the power of quantum computing in their quest for optimised structural designs.
 
-# Mathematical Formulation
-The structural topology optimization problem can be mathematically formulated as
-Minimise:     f(x)
-Subject to:          Ω⊆Rn (Design domain)
-                     x∈Rn   (Design variables)
-                     gi(x)≤0,   i=1,2,…,m (Inequality constraints)
-                     hj(x)=0,   j=1,2,…,p (Equality constraints)
-​
-Where:
-f(x) is the objective function to be minimised or maximised.
-Ω is the design domain.
-x represents the design variables.
-gi(x) are inequality constraints representing structural or geometric limits.
-ℎj(x) are equality constraints representing boundary conditions or other requirements.
-
 # Structural Topology Optimization
 
 ## Overview
