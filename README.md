@@ -19,7 +19,7 @@ x represents the design variables.
 gi(x) are inequality constraints representing structural or geometric limits.
 ℎj(x) are equality constraints representing boundary conditions or other requirements.
 
-# Structural Topology Optimization README
+# Structural Topology Optimization
 
 ## Overview
 
