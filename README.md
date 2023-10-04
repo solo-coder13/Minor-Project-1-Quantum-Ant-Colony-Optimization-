@@ -1,21 +1,22 @@
-# Quantum Ant Colony Optimization
-Quantum Ant Colony Optimisation optimises structural topology, a conventional engineering issue. We use quantum computing's superposition and entanglement and ant-inspired creatures' intelligence to optimise structural design and engineering. Engineers and designers across sectors employ structural topology optimisation to construct creative and efficient structures. It optimises design area material allocation under strict limits to deliver resource-efficient, cost-effective, and high-performance solutions. To use cutting-edge technology, companies need imaginative engineering solutions and optimisation methodologies that study large solution areas. 
-
-# Objective
-The primary objective of this project is two-fold. First, it aims to investigate the theoretical foundations of Quantum Ant Colony Optimization and its applicability to engineering problems, particularly in the context of structural topology optimization. Second, it seeks to provide practical insights into implementing QACO, offering a roadmap for engineers and researchers eager to harness the power of quantum computing in their quest for optimised structural designs.
-
 # Structural Topology Optimization
 
 ## Overview
 
-This README file provides a concise overview of the mathematical formulation for the structural topology optimization problem. It outlines the essential components of the problem, including the objective function, design domain, design variables, inequality constraints, and equality constraints. Familiarizing yourself with these elements is crucial for understanding and solving structural topology optimization problems.
+It provides a concise overview of the mathematical formulation for the structural topology optimization problem. It outlines the essential components of the problem, including the objective function, design domain, design variables, inequality constraints, and equality constraints. Familiarizing yourself with these elements is crucial for understanding and solving structural topology optimization problems.
+
+# Quantum Ant Colony Optimization
+Quantum Ant Colony Optimisation optimises structural topology, a conventional engineering issue. We use quantum computing's superposition and entanglement and ant-inspired creatures' intelligence to optimise structural design and engineering. Engineers and designers across sectors employ structural topology optimisation to construct creative and efficient structures. It optimises design area material allocation under strict limits to deliver resource-efficient, cost-effective, and high-performance solutions. To use cutting-edge technology, companies need imaginative engineering solutions and optimisation methodologies that study large solution areas. 
+
 
 ## Problem Statement
+quantum ant colony optimization for solving engineering problem like strurural topology optimization, H-bridge, Tension-Spring problem 
 
-The structural topology optimization problem can be mathematically formulated as follows:
+# Objective
+The primary objective of this project is two-fold. First, it aims to investigate the theoretical foundations of Quantum Ant Colony Optimization and its applicability to engineering problems, particularly in the context of structural topology optimization. Second, it seeks to provide practical insights into implementing QACO, offering a roadmap for engineers and researchers eager to harness the power of quantum computing in their quest for optimised structural designs.
+
+## Mathematical Formulation
 
 **Minimize**: `f(x)`
-
 **Subject to**:
 - `Ω ⊆ ℝ^n` (Design domain)
 - `x ∈ ℝ^n` (Design variables)
