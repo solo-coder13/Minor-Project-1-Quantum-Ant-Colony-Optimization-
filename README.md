@@ -10,6 +10,7 @@ Quantum Ant Colony Optimisation optimises structural topology, a conventional en
 ## Problem Statement
 quantum ant colony optimization for solving engineering problem like strurural topology optimization, H-bridge, Tension-Spring problem 
 
+
 # Objective
 The primary objective of this project is two-fold. First, it aims to investigate the theoretical foundations of Quantum Ant Colony Optimization and its applicability to engineering problems, particularly in the context of structural topology optimization. Second, it seeks to provide practical insights into implementing QACO, offering a roadmap for engineers and researchers eager to harness the power of quantum computing in their quest for optimised structural designs.
 
