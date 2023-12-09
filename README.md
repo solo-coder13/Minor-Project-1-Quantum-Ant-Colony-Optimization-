@@ -16,6 +16,7 @@ The primary objective of this project is two-fold. First, it aims to investigate
 
 ## Mathematical Formulation
 
+
 **Minimize**: `f(x)`
 **Subject to**:
 - `Ω ⊆ ℝ^n` (Design domain)
